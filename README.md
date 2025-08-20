@@ -27,7 +27,7 @@ This app allows you to input your weight and height in multiple units and calcul
 
    ```bash
    git clone https://github.com/yourusername/bmi-calculator.git
-   cd bmi-calculator
+   cd BMI-Calculator
    ```
 
 2. Install required dependency:
@@ -39,7 +39,7 @@ This app allows you to input your weight and height in multiple units and calcul
 3. Run the app:
 
    ```bash
-   python bmi_calculator.py
+   python BMI.py
    ```
 
 ---
